@@ -17,11 +17,11 @@ Time spent: **3** Months spent in total
 The overall design of our system consists of the following phases: 
 
 
-*[] Taking input from the user in the form of voice.
-*[] Converting the speech into text to be processed by the assistant.
-*[] The converted text is now processed to get the required results. 
-*[] The text contains one or two keywords that determine what query is to be executed. If the keyword doesn’t match any of the queries in the code, then the assistant asks the user to speak again.
-*[] The result which is in the form of text is converted to speech again to give results to the user.
+* [] Taking input from the user in the form of voice.
+* [] Converting the speech into text to be processed by the assistant.
+* [] The converted text is now processed to get the required results. 
+* [] The text contains one or two keywords that determine what query is to be executed. If the keyword doesn’t match any of the queries in the code, then the assistant asks the user to speak again.
+* [] The result which is in the form of text is converted to speech again to give results to the user.
 
 
 
