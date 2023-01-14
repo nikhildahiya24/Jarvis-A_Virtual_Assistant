@@ -261,13 +261,13 @@ class MainThread(QThread):
             # elif "song on youtube" in self.query:
             #     kit.playonyt("see you again")
 
-            # elif "email to Harsh Rana" in self.query:
+            # elif "email to Nikhil Dahiya" in self.query:
             #     try:
             #         speak("what should i say?")
             #         content = takecommand()
             #         to = "EMAIL OF THE OTHER PERSON"
             #         sendEmail(to,content)
-            #         speak("Email has been sent to Harsh Rana")
+            #         speak("Email has been sent to Nikhil Dahiya")
 
             #     except Exception as e:
             #         print(e)
@@ -334,7 +334,7 @@ class MainThread(QThread):
                 news()
 
 
-            elif "email to Harsh Rana" in self.query:
+            elif "email to Nikhil Dahiya" in self.query:
                 
                 speak("sir what should i say")
                 self.query = self.takecommand()
@@ -390,7 +390,7 @@ class MainThread(QThread):
                     server.login(email, password) # Login to the email server
                     server.sendmail(email, send_to_email , message) # Send the email
                     server.quit() # Logout of the email server
-                    speak("email has been sent to Harsh Rana")
+                    speak("email has been sent to Nikhil Dahiya")
 
 
             ##########################################################################################################################################
