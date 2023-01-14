@@ -23,12 +23,7 @@ The overall design of our system consists of the following phases:
 * [ ] The text contains one or two keywords that determine what query is to be executed. If the keyword doesn’t match any of the queries in the code, then the assistant asks the user to speak again.
 * [ ] The result which is in the form of text is converted to speech again to give results to the user.
 
-Here are some Screenshot of the Project
 
-https://github.com/nikhildahiya24/Jarvis-A_Virtual_Assistant/blob/7ac749d29c41c0affa1391a78da3eb18bebec291/Screenshot_20230114_085151.png
-https://github.com/nikhildahiya24/Jarvis-A_Virtual_Assistant/blob/7ac749d29c41c0affa1391a78da3eb18bebec291/Screenshot_20230114_085201.png
-https://github.com/nikhildahiya24/Jarvis-A_Virtual_Assistant/blob/7ac749d29c41c0affa1391a78da3eb18bebec291/Screenshot_20230114_085215.png
-https://github.com/nikhildahiya24/Jarvis-A_Virtual_Assistant/blob/7ac749d29c41c0affa1391a78da3eb18bebec291/Screenshot_20230114_085226.png
 
 
 
